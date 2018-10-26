@@ -22,7 +22,7 @@ Install package:
     
 * Paste json file in project folder.
 
-* share access table for client_email in json file
+* give access to the table for a client_email who is in json file
 * add column names in Google Table
     
 2 - Development
