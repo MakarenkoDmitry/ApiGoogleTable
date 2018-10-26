@@ -21,6 +21,9 @@ Install package:
     * Save json file
     
 * Paste json file in project folder.
+
+* share access table for client_email in json file
+* add column names in Google Table
     
 2 - Development
 ```php
