@@ -8,6 +8,14 @@ Install package:
  $ composer install
 ```
 
+Install php module:
+ ```
+ $ apt-get install php-xml, 
+ $ apt-get install php-simplexml
+```
+
+
+
 ## Usage
 1 - Generate "Service account key".
 * Go to https://console.developers.google.com/, create new project.
